@@ -1,6 +1,7 @@
 let carrinho = document.getElementById('lista-produtos');
 
 function limpar() {
+    // Pesquisar sobre JQuery
 }
 
 function adicionar() {
